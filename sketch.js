@@ -24,9 +24,14 @@ function setup() {
 
   words = [
     { word: 'City', x: 100, y: 50 },
-    { word: 'CN Tower', x: width - 100, y: height - 100 },
+    { word: 'Covid19 stay at home', x: width - 100, y: height - 100 },
     { word: 'UofT', x: 200, y: 150 },
     { word: 'Collage Life', x: 100, y: 290 },
+    { word: 'sterilization', x: 50, y: 290 },
+    { word: 'wear mask', x: 100, y: 200 },
+    { word: 'back to school', x: 80, y: 100 },
+    { word: 'first dose', x: 10, y: 230 },
+    { word: 'second dose', x: 30, y: 250 },
   ]
 }
 
